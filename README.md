@@ -31,7 +31,7 @@ purchases
 	int qty
 	date dt_ordered
 	int eta
-	char received		// Check(T or C or F) def (F)
+	char received		
 	int inv
 
 employees
@@ -45,7 +45,7 @@ employees
 	long int phn
 	date date_of_joining
 	long int salary
-	string mgr_status	//check(T or F) def f
+	string mgr_status	
 
 members
 
